@@ -9,3 +9,5 @@ itsdangerous
 langchain-core
 litellm
 crewai[google-genai]
+chromadb
+sentence-transformers
