@@ -1,0 +1,11 @@
+requests
+python-dotenv
+crewai
+fastapi
+crewai[tools]
+PyGithub
+google.generativeai
+itsdangerous
+langchain-core
+litellm
+crewai[google-genai]
